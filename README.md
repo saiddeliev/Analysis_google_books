@@ -32,6 +32,10 @@
 - таблица количества книг и среднего рейтинга по языкам;
 - дашборд с селектором языка.
 
+## Ссылка на дашборд DataLens
+
+[Открыть дашборд Google Books](https://datalens.yandex/uw2gqxbdpnred?_share_link=public)
+
 ## Файлы проекта
 
 - `data/google_books_dataset.csv` — исходный датасет;

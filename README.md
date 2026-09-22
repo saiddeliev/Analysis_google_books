@@ -38,5 +38,5 @@
 
 ## Файлы проекта
 
-- `data/google_books_dataset.csv` — исходный датасет;
-- `notebook/analysis.ipynb` — ноутбук с анализом.
+- `data/google_books_dataset.csv` - исходный датасет;
+- `notebook/analysis.ipynb` - ноутбук с анализом.
